@@ -1,0 +1,4 @@
+#+title: Note
+
+app/views/layout : Global style
+app/views/entry/index : inner style
